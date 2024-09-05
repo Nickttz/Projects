@@ -1,4 +1,4 @@
-# Status: Em desenvolvimento ⚠️
+# Status: Em desenvolvimento (pode ter alguns bugs) ⚠️
 
 ### Este é um aplicativo para gerenciar uma biblioteca. Usei a IDE do Visual Studio Code com extensões Java.
 
